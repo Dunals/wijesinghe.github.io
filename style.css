@@ -50,7 +50,7 @@
   border: 1px solid #f6ee0b;
 }
 
-@media(max-width: 700px){
+@media(max-width: 712px){
   .header1{
     background-image: linear-gradient(rgba(4,9,30,0.4),rgba(4,9,30,0.4)),url(img/bg.png);
     background-position: center;
@@ -90,6 +90,9 @@
   }
   .name h5{
     font-size: 12px;
+  }
+  .grey .button{
+    font-size: 10px;
   }
 }
 @keyframes slideout {
